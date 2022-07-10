@@ -14,6 +14,9 @@ Adding results:
 
 
 2. Perceptron:
+
+
+
 ![image](https://user-images.githubusercontent.com/76450471/178143645-d4fcf5b8-6f28-4c58-954c-2918a5d6d389.png)
 ![image](https://user-images.githubusercontent.com/76450471/178143649-0413aea5-6d8a-492f-9258-58cfa14caf3d.png)
 ![image](https://user-images.githubusercontent.com/76450471/178143652-f2e67166-5ac6-4750-b671-9443a78e3e0b.png)
